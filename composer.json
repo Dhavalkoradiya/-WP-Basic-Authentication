@@ -1,0 +1,5 @@
+{
+	"name" : " Dhavalkoradiya/WP-Basic-Authentication ",
+	"description" : "Basic Authentication handler for the JSON API, Speacially Design for REST-API User Registration",
+	"type" : "wordpress-plugin"
+}
