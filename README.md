@@ -40,3 +40,11 @@ const httpOptions = {
 	}),
 };
 ```
+
+### Postman
+
+![one](https://image.prntscr.com/image/kMIqyfGAQmWwde7-qnAYXQ.png)
+
+&
+
+![two](https://image.prntscr.com/image/KZjzM1ZLT-GO_VnK86ZDOQ.png)
